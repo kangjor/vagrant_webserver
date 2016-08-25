@@ -1,5 +1,4 @@
-.vagrant/*
-
 #for mac
 .DS_Store
+
 .vagrant
